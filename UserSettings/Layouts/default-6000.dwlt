@@ -682,14 +682,13 @@ MonoBehaviour:
       m_Data: 54374
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53938
-    - m_Data: 53940
-    - m_Data: 53942
-    - m_Data: 53944
-    - m_Data: 53946
-    - m_Data: 53948
-    - m_Data: 53950
-    - m_Data: 53952
+    - m_Data: 51450
+    - m_Data: 51452
+    - m_Data: 51454
+    - m_Data: 51456
+    - m_Data: 51458
+    - m_Data: 51460
+    - m_Data: 51462
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -722,14 +721,13 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53938
-    - m_Data: 53940
-    - m_Data: 53942
-    - m_Data: 53944
-    - m_Data: 53946
-    - m_Data: 53948
-    - m_Data: 53950
-    - m_Data: 53952
+    - m_Data: 51450
+    - m_Data: 51452
+    - m_Data: 51454
+    - m_Data: 51456
+    - m_Data: 51458
+    - m_Data: 51460
+    - m_Data: 51462
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1452,9 +1450,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2.6295822, y: -0.16120835, z: 0.6607097}
+    m_Target: {x: 3.373688, y: 1.8503842, z: 1.6705339}
     speed: 2
-    m_Value: {x: -1.4804543, y: -0.48159614, z: -7.9000607}
+    m_Value: {x: 2.6295822, y: -0.16120835, z: 0.6607097}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1500,17 +1498,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15511404, y: 0.41201934, z: -0.07141817, w: 0.8950773}
+    m_Target: {x: 0.15230048, y: 0.53415173, z: -0.09852476, w: 0.8257009}
     speed: 2
-    m_Value: {x: -0.0313149, y: 0.96773916, z: -0.15369184, w: -0.19717826}
+    m_Value: {x: 0.15511404, y: 0.41201937, z: -0.07141817, w: 0.89507735}
   m_Size:
-    m_Target: 3.8512585
+    m_Target: 0.836631
     speed: 2
-    m_Value: 4.989054
+    m_Value: 3.8512585
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 0.40079993
     m_SpeedNormalized: 0.19999996
