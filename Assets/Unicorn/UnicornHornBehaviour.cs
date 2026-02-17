@@ -17,22 +17,7 @@ public class UnicornHornBehaviour : MonoBehaviour
 
     public void Select()
     {
-        int i = Random.Range(0, 2);
-
-        switch (i)
-        {
-            case (0):
-                rndColor = Color.red;
-                break;
-
-                case (1):
-                rndColor = Color.blue;
-                break;
-
-                case (2):
-                rndColor = Color.green;
-                break;
-        }
+        rndColor = new Color(Random.Range(0, 255), Random.Range(0, 255), Random.Range(0, 255));
         hornMat.color = rndColor;
     }
 }
